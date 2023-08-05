@@ -5,7 +5,7 @@
 
 ## <div align="center"> Sono uno Jr. Full Stack Web Developer 🚀</div>
 
-<div align="center">•📚 Attualmente sto studiando LARAVEL.</div>
+<div align="center">•📚 Attualmente sto studiando JAVA & Spring.</div>
 <div align="center">•👨🏻‍💻 Ho studiato presso Boolean, ed ho acquisito competenze nell'utilizzo di tecnologie front-end e back-end e le basi per poter imparare altre tecnologie in futuro.</div>
 <div align="center">•🌱 Amo essere in continuo aggiornamento e ho voglia di ampliare le mie conoscenze, imparando anche nuovi framework o nuovi linguaggi di programmazione.</div>
 <div align="center">•🎮 Sono appassionato di tecnologia sin da quando ero bambino.</div>
@@ -36,6 +36,8 @@
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/260px-PHP-logo.svg.png" alt="PHP" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://www.geekandjob.com/uploads/wiki/eceb15684d4183c66f73c1a9bb777eef708b2b66.png" alt="MySQL" height="50" /></a>   
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="50" /></a>  
+<a title="java.com" href="/it/" data-bind="attr: { href: SCSRenderAPI.getPageLinkUrl(SCS.navigationRoot).substring(0,SCSRenderAPI.getPageLinkUrl(SCS.navigationRoot).lastIndexOf('/')+1) }"></a>
+<a href="https://e7.pngegg.com/pngimages/931/804/png-clipart-spring-framework-software-framework-java-application-framework-web-framework-java-leaf-text.png" target="_blank"><img style="margin: 10px" src="https://e7.pngegg.com/pngimages/931/804/png-clipart-spring-framework-software-framework-java-application-framework-web-framework-java-leaf-text.png" alt="Laravel" height="50" /></a>  
 </div>
 </td>
 </tr>

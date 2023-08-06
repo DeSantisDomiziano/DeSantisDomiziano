@@ -36,8 +36,8 @@
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/260px-PHP-logo.svg.png" alt="PHP" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://www.geekandjob.com/uploads/wiki/eceb15684d4183c66f73c1a9bb777eef708b2b66.png" alt="MySQL" height="50" /></a>   
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="50" /></a>  
-<a href="https://www.java.com/it/" target="_blank"><img style="margin: 10px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fspng.pngfind.com%2Fpngs%2Fs%2F74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png&tbnid=BwW9fBEsCEOiFM&vet=12ahUKEwjW0OX5psiAAxUCNOwKHb-_CtQQMygFegUIARDGAQ..i&imgrefurl=https%3A%2F%2Fwww.pngfind.com%2Fmpng%2Fbbhbih_java-logo-png-transparent-svg-vector-freebie-supply%2F&docid=C_pEuo9xlmdXVM&w=320&h=320&q=java%20oracle%20svg%20logo&ved=2ahUKEwjW0OX5psiAAxUCNOwKHb-_CtQQMygFegUIARDGAQ" alt="Java" height="50" /></a>  
-<a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.worldvectorlogo.com%2Flogos%2Fspring-3.svg&tbnid=A1LPJhoHKwb8dM&vet=12ahUKEwjT7LbTpsiAAxVbwgIHHdUMBnoQMygBegUIARDNAQ..i&imgrefurl=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fspring-3&docid=DWbN0sU2xzjDuM&w=2499&h=2500&q=spring%20svg%20logo&ved=2ahUKEwjT7LbTpsiAAxVbwgIHHdUMBnoQMygBegUIARDNAQ" alt="Spring" height="50" /></a>  
+<a href="https://www.java.com/it/" target="_blank"><img style="margin: 10px" src="https://www.pngfind.com/pngs/m/74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png" alt="Java" height="50" /></a>  
+<a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Noub1bn2c-qaMhUDPdfkEBfuEkQEaCMsQvURts7WzfPSElJ8IbbkkPKftCyV0R1mzPU&usqp=CAU" alt="Spring" height="50" /></a>  
 
 </div>
 </td>
